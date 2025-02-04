@@ -8,10 +8,9 @@
 
 ### 🚀 About Me
 
-- 🔥 Passionate about **Flutter**, **Node.js**, and **Raspberry Pi**
-- 💡 Constantly learning and working on **Open Source Projects**
-- 🖥️ Working on **Fitmass**, **RecebeMe**, and personal tech projects
-- 🎯 Currently exploring **Arduino & Ferromodelismo**
+- 🔥 Passionate about **Flutter** and **Javascript**.
+- 🖥️ Working on **Fitmass**, and personal tech projects
+- 🎯 Currently exploring **Flutter Embedded and Raspberry PI**
 
 ---
 
