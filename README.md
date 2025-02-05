@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Viezi! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&width=435&lines=Developer+%7C+Tech+Enthusiast+%7C+Open+Source" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=6A5ACD&width=500&lines=Developer+%7C+Tech+Enthusiast+%7C+Open+Source" />
 </p>
 
 ---
@@ -30,14 +30,16 @@
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi-%23C51A4A.svg?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VieziDev&theme=radical" alt="GitHub Streak" />
-  <br>
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VieziDev&theme=radical" alt="GitHub Streak" /> -->
+<!--   <br> -->
   <img src="https://github-readme-stats.vercel.app/api?username=VieziDev&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VieziDev&layout=compact&theme=radical" alt="Top Languages" />
@@ -56,5 +58,3 @@
 </p>
 
 ---
-
-💡 _"Building, learning, and sharing one project at a time."_ 🚀
